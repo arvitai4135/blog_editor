@@ -3,7 +3,7 @@ import { Quill } from "react-quill";
 import { Icon } from "@iconify/react";
 import roundUndo from "@iconify/icons-ic/round-undo";
 import roundRedo from "@iconify/icons-ic/round-redo";
-import PropTypes from "prop-types"; // Already correct
+import PropTypes from "prop-types";
 import QuillEditorToolbarStyle from "./QuillEditorToolbarStyle.jsx";
 
 const FONT_FAMILY = ["Arial", "Tahoma", "Georgia", "Impact", "Verdana"];
